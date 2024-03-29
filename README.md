@@ -21,7 +21,7 @@
 <p align="center" dir="auto">
 	<a href="mailto:abdulmoiz0694@gmail.com"><img src="https://camo.githubusercontent.com/2c24caabeec485236fbde182ae20b6a95a76ad3558a5d23d63e5a940d3693b2d/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f676d61696c2e706e67" alt="Gmail" data-canonical-src="https://img.icons8.com/bubbles/50/000000/gmail.png" style="max-width: 100%;"></a>
 	<a href="https://github.com/abdul-moiz-06"><img src="https://camo.githubusercontent.com/3251314031d2d11e18122424207bfec4c0867f5343f41c959770095724b2d4d7/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f6769746875622e706e67" alt="GitHub" data-canonical-src="https://img.icons8.com/bubbles/50/000000/github.png" style="max-width: 100%;"></a>
-	<a href="https://www.linkedin.com/in/abdul-moiz-06/" rel="nofollow"><img src="https://camo.githubusercontent.com/b3229c20f8d20d18f79e52844448f4de10ddb771bc8da0559078c185d800363a/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f6c696e6b6564696e2e706e67" alt="LinkedIn" data-canonical-src="https://img.icons8.com/bubbles/50/000000/linkedin.png" style="max-width: 100%;"></a>
+	<a href="https://www.linkedin.com/in/abdul-moiz-06/" target="_blank" rel="nofollow"><img src="https://camo.githubusercontent.com/b3229c20f8d20d18f79e52844448f4de10ddb771bc8da0559078c185d800363a/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f6c696e6b6564696e2e706e67" alt="LinkedIn" data-canonical-src="https://img.icons8.com/bubbles/50/000000/linkedin.png" style="max-width: 100%;"></a>
 </p>
 </article>
   </div>
